@@ -18,5 +18,4 @@
 go run . "Hello World!"
 ```
 ### Contributors
-* @rzhampeis 
 * @aomirhan  
